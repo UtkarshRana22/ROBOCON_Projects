@@ -16,11 +16,25 @@ Example:
 ## 📘 Assignments
 
 The **`assignments/`** folder contains all **C++ codes** written for assignments.  
-Each assignment may have a corresponding snapshot stored in the **`snaps/`** folder for quick reference.  
 
 Example:
 - [`assignments/assignment1.cpp`](assignments/assignment1.cpp)  
-- [`snaps/assignment1.png`](snaps/assignment1.png)
+- [`assignments/assignment2.cpp`](assignments/assignment2.cpp)
 
 ---
 
+## 📷 Snapshots
+
+The **`snap/`** folder contains snapshots of assignment codes for quick reference.  
+
+Example:
+- [`snap/assignment1.png`](snap/assignment1.png)  
+- [`snap/assignment2.png`](snap/assignment2.png)
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/UtkarshRana22/ROBOCON_Projects
